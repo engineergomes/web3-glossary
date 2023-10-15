@@ -1,4 +1,4 @@
-# Binance Glossary
+# Web3 Glossary
 
 ## 51% Attack
 Also known as a majority attack. When one or a group of miners control greater than 50% of the network's mining hashrate or computational power.
